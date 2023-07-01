@@ -8,4 +8,4 @@
 
 ### Visit the website
 
-[click here]()
+[click here](https://charbel-dot.github.io/students-web-api/)
